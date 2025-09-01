@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border: 10px;
+}
+ul{
+    font: italic;
+}
