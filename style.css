@@ -4,9 +4,10 @@ body{
 img{
     height: 150px;
     width: 150px;
-    border: 10px;
+    border: 20px solid #000;
 }
-li{
-    font: italic;
+ul li{
+    font-style: italic;
 
 }
+
