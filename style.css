@@ -1,13 +1,14 @@
 body{
     background-color: blanchedalmond;
-}
+};
 img{
     height: 150px;
     width: 150px;
     border: 20px solid #000;
-}
+};
 ul li{
     font-style: italic;
 
-}
+};
+
 
